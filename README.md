@@ -15,7 +15,7 @@ You contribute by taking responsibility for all critical aspects of conference o
 You contribute by actively seeking for sponsors and new audience, pitching the conference in your network, groups, conferences. **You boost conference’s credibility and contribute to sales**. At this level, you’re entitled for the major % from undistributed profit pool, plus commission from your sales.
 
 ### Level 2 – Staff ⭐️⭐️ 
-You actively help preparing before the conference by engaging into Slack conversation, completing tasks assigned during Team Hangout, **seeking responsibility** and helping busy staff members.  You come up with ideas how to improve the conference, pitch ideas to the team and make sure they are **implemented in cost-efficient, timely manner**. At this level, you’re entitled for a monetary compensation that depends on your engagement and contribution (% from undistributed profit pool). The % depends on the number of staff members.
+You actively help preparing before the conference by engaging into Slack conversation, completing tasks assigned during Team Hangout, **seeking responsibility** and helping busy staff members.  You come up with ideas how to improve the conference, pitch ideas to the team and make sure they are **implemented in cost-efficient, timely manner**. At this level, you’re entitled for a monetary compensation that depends on your engagement, contribution, and the number of staff members.
 
 ### Level 1 – Volunteer ⭐️ 
 You help preparing a day before the conference, as well as actively engage in organisation and problem-solving during the conference. At this level, you’re getting a free pass to the conference and your accommodation and travel expenses are covered. 
