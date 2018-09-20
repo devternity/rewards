@@ -1,6 +1,6 @@
 # Monetary rewards system at DevTernity
 
-Apart of being part of something big and getting eternal fame by saying "I co-organise DevTernity – the most-waited IT conference in the Baltics", DevTernity staff members are entitled for monetery rewards. 
+Besides being part of something big and getting eternal fame by saying "I co-organise DevTernity – the most-waited IT conference in the Baltics", DevTernity staff members are entitled for monetery rewards. 
 
 This short guide is written for staff members. The goal is to explain how contribution is assessed and profits are distributed.
 
