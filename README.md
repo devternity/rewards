@@ -4,6 +4,8 @@ Apart of being famous by saying "I co-organise DevTernity – the most-waited IT
 
 This short guide is written for staff members. The goal is to explain how profits are distributed.
 
+> Higher levels include lower levels. Level 4 includes 3, 2, 1. 3 includes 2, 1 etc.
+
 ### Level 4 – Conference Lead
 You contribute by taking responsibility for all critical aspects of conference organisation – speakers, sponsors, attendees, sales, marketing, financials, negotiation. It means that if you're dead, the conference is dead, too. You have skin in the game by contributing your financials and taking responsibility for reputational and financial disaster, force majeure. At this level, you're entitled for 33% of ROI, if the conference is profitable.
 
