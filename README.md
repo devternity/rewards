@@ -10,7 +10,7 @@ This short guide is written for staff members. The goal is to explain how contri
 You contribute by taking responsibility for all critical aspects of conference organisation – speakers, sponsors, attendees, sales, marketing, financials, negotiation. It means that if you're dead, the conference is dead, too. You have skin in the game by contributing your financials and taking responsibility for reputational and financial disaster, force majeure. At this level, you're entitled for 33% of ROI, if the conference is profitable.
 
 ### Level 3 – Evangelist ⭐️⭐️⭐️ 
-You contribute by actively seeking for sponsors and new audience, pitching the conference in your network, groups, conferences. **You help boosting conference’s credibility and contribute to sales**. At this level, you’re entitled for the major % from undistributed profit pool, plus commission from your sales.
+You contribute by actively seeking for sponsors and new audience, pitching the conference in your network, groups, conferences. **You boost conference’s credibility and contribute to sales**. At this level, you’re entitled for the major % from undistributed profit pool, plus commission from your sales.
 
 ### Level 2 – Staff ⭐️⭐️ 
 You actively help preparing before the conference by engaging into Slack conversation, completing tasks assigned during Team Hangout, **seeking responsibility** and helping busy staff members.  You come up with ideas how to improve the conference, pitch ideas to the team and make sure they are **implemented in cost-efficient, timely manner**. At this level, you’re entitled for a monetary compensation that depends on your engagement and contribution (% from undistributed profit pool). The % depends on the number of staff members.
