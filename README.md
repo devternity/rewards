@@ -2,7 +2,7 @@
 
 Apart of being famous by saying "I co-organise DevTernity – the most-waited IT conference in the Baltics", DevTernity staff members are entitled for monetery rewards. 
 
-This short guide is written for staff members. The goal is to explain how profits are distributed.
+This short guide is written for staff members. The goal is to explain how contribution is assessed and profits are distributed.
 
 > Higher levels include lower levels. Level 4 includes 3, 2, 1. 3 includes 2, 1 etc.
 
